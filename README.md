@@ -1,6 +1,6 @@
 # Guia de Spring Framework
 
-Bem-vindo ao repositório de projetos Java com Spring Framework! Este guia de referência foi criado para ajudar desenvolvedores a compreender e implementar aplicações utilizando o ecossistema Spring.
+Bem-vindo ao meu repositório de projetos Java com Spring Framework! Este guia de referência foi criado para me ajudar a compreender e implementar aplicações utilizando o ecossistema Spring baseado em um curso de Spring que estou realizando pela plataforma [DevMedia](https://www.devmedia.com.br/).
 
 <p align="center">
   <img src="https://spring.io/img/spring.svg" alt="Spring Logo" width="300" />
@@ -8,13 +8,13 @@ Bem-vindo ao repositório de projetos Java com Spring Framework! Este guia de re
 
 ## 📋 Conteúdo
 
-- [Introdução](#introdução)
-- [Aplicações Web MVC](#aplicações-web-mvc)
-- [Banco de Dados](#banco-de-dados)
-- [Autenticação em Aplicações Web MVC](#autenticação-em-aplicações-web-mvc)
-- [Web Services RESTful](#web-services-restful)
-- [Relatórios](#relatórios)
-- [Boas Práticas](#boas-práticas)
+- [Introdução](https://www.devmedia.com.br/spring/introducao)
+- [Aplicações Web MVC](https://www.devmedia.com.br/spring/aplicacoes-web-mvc)
+- [Banco de Dados](https://www.devmedia.com.br/spring/banco-de-dados)
+- [Autenticação em Aplicações Web MVC](https://www.devmedia.com.br/spring/autenticacao-em-aplicacoes-web-mvc)
+- [Web Services RESTful](https://www.devmedia.com.br/spring/web-services-restful)
+- [Relatórios](https://www.devmedia.com.br/spring/relatorios)
+- [Boas Práticas](https://www.devmedia.com.br/spring/boas-praticas)
 
 ## 🚀 Introdução
 
